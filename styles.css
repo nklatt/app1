@@ -1,0 +1,9 @@
+.board {
+  background-color: black;
+  border-collapse: separate;
+}
+.board td {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+}
